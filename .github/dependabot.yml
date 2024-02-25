@@ -1,4 +1,4 @@
-version: 2
+o okversion: 2
 updates:
   - package-ecosystem: "bundler"
     directory: "/updater"
